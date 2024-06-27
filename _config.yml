@@ -1,0 +1,5 @@
+title: Eddie
+logo : assets/images
+remote_theme: 
+plugins: 
+- jekyll-remote-theme
